@@ -1,0 +1,19 @@
+npm install -g create-react-app or npx create-react-app <name of project>
+
+-g = run globally from terminal
+
+es5 = fully supported
+es2015 = almost completly supported
+es2016,17,18 = poorly supported
+
+bable = gets us aroud above, converts newer JS to es5 JS which can execute on any browser
+	this is downloaded when we create a new react app
+
+foder structure
+public = static content
+
+
+import        vs require
+ES2015 Module vs CommonJS import statment
+
+A componant is a function or a class that produces HTML (using JSX) to show the user and handels the feedback (event handeler) from the user
